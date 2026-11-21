@@ -48,22 +48,22 @@ Project Structure
 Dashboard Preview 
 
 ### 1. Executive Overview
-![Executive Overview](Dashboard-Screenshots/01-Executive-Overview.png)
+![Executive Overview](01-Executive-Overview.png)
 
 ### 2. Customer Analysis
-![Customer Analysis](Dashboard-Screenshots/02-Customer-Analysis.png)
+![Customer Analysis](02-Customer-Analysis.png)
 
 ### 3. Sales Analysis
-![Sales Analysis](Dashboard-Screenshots/03-Sales-Analysis.png)
+![Sales Analysis](03-Sales-Analysis.png)
 
 ### 4. Product and Payment Analysis
-![Product and Payment Analysis](Dashboard-Screenshots/04-Product-and-Payment-Analysis.png)
+![Product and Payment Analysis](04-Product-and-Payment-Analysis.png)
 
 ### 5. Delivery and Customer Satisfaction
-![Delivery and Customer Satisfaction](Dashboard-Screenshots/05-Delivery-and-Customer-Satisfaction.png)
+![Delivery and Customer Satisfaction](05-Delivery-and-Customer-Satisfaction.png)
 
 ### 6. Seller Performance
-![Seller Performance](Dashboard-Screenshots/06-Seller-Performance.png)
+![Seller Performance](06-Seller-Performance.png)
 
 
 Author
