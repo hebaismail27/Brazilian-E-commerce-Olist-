@@ -45,10 +45,29 @@ Project Structure
 - Dashboard Screenshots
 - Project Documentation
 
-Key Insights
+Dashboard Preview 
 
-Key findings and business insights will be added based on the analysis results.
+### 1. Executive Overview
+![Executive Overview](Dashboard-Screenshots/01-Executive-Overview.png)
+
+### 2. Customer Analysis
+![Customer Analysis](Dashboard-Screenshots/02-Customer-Analysis.png)
+
+### 3. Sales Analysis
+![Sales Analysis](Dashboard-Screenshots/03-Sales-Analysis.png)
+
+### 4. Product and Payment Analysis
+![Product and Payment Analysis](Dashboard-Screenshots/04-Product-and-Payment-Analysis.png)
+
+### 5. Delivery and Customer Satisfaction
+![Delivery and Customer Satisfaction](Dashboard-Screenshots/05-Delivery-and-Customer-Satisfaction.png)
+
+### 6. Seller Performance
+![Seller Performance](Dashboard-Screenshots/06-Seller-Performance.png)
+
 
 Author
 
 Heba Ismail
+
+
