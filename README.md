@@ -45,6 +45,21 @@ Project Structure
 - Dashboard Screenshots
 - Project Documentation
 
+Key Insights
+
+Overall Sales & Growth: The project analyzes Olist (a Brazilian e-commerce platform) and shows 15.84M in total revenue from 99K orders and 96K customers, with an average order value of 160.58 and strong sales growth between 2017 and 2018.  
+
+Top Categories: The highest-selling product categories are Health & Beauty, Watches & Gifts, Bed Bath Table, and Sports & Leisure.  
+
+Customer & Location Trends: Most customers and revenue come from São Paulo (SP), followed by Rio de Janeiro (RJ) and Minas Gerais (MG), with the majority of customers falling into the Medium and Low spending groups.  
+
+Payment Methods: Credit cards are the most popular payment method (76.82% of orders), followed by Boleto (19.44%) and Vouchers (3.73%), with an average of 2.85 installments per order.  
+
+Delivery & Customer Satisfaction: Orders take an average of 12.50 days to arrive, and 89.85% of orders are delivered on time, leading to a good overall customer review score of 4.09 out of 5.  
+
+Seller Performance: The platform includes 3K sellers generating 13.59M in seller revenue, with most top-performing sellers located in São Paulo (SP).
+
+
 Dashboard Preview 
 
 ### 1. Executive Overview
